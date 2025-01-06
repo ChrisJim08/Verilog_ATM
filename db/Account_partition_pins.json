@@ -1,0 +1,209 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "BalOut0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "BalOut0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "BalOut0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "BalOut0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "BalOut0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "BalOut0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "BalOut0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "BalOut1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "BalOut1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "BalOut1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "BalOut1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "BalOut1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "BalOut1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "BalOut1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "BalOut2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "BalOut2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "BalOut2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "BalOut2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "BalOut2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "BalOut2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "BalOut2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Display3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Display3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Display3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Display3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Display3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Display3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Act_Num[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Act_Num[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Clock",
+					"strict" : false
+				},
+				{
+					"name" : "Back",
+					"strict" : false
+				},
+				{
+					"name" : "Amount[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Amount[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Amount[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Amount[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Amount[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Amount[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Amount[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Amount[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Pin[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Pin[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Pin[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Pin[3]",
+					"strict" : false
+				},
+				{
+					"name" : "O1",
+					"strict" : false
+				},
+				{
+					"name" : "O0",
+					"strict" : false
+				},
+				{
+					"name" : "Clear_n",
+					"strict" : false
+				},
+				{
+					"name" : "Act_Num[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Act_Num[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Act_Num[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Act_Num[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
